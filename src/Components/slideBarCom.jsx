@@ -41,7 +41,7 @@ export default function SlideBar() {
             </li>
             <li className="nav-item">
               {" "}
-              <Link className="nav-link" href="/typography">
+              <Link className="nav-link" to="/typography">
                 Typography
               </Link>
             </li>
@@ -63,9 +63,9 @@ export default function SlideBar() {
         <div className="collapse" id="form-elements">
           <ul className="nav flex-column sub-menu">
             <li className="nav-item">
-              <a className="nav-link" href="pages/forms/basic_elements.html">
+              <Link className="nav-link" to="/basicelement">
                 Basic Elements
-              </a>
+              </Link>
             </li>
           </ul>
         </div>

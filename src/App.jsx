@@ -5,6 +5,7 @@ import Home from './Components/home'
 import Button from './Components/buttonsCom'
 import DropDown from './Components/dropDownCom'
 import TypoGraphy from './Components/typoGraphyCom'
+import BasicElement from './Components/basicElementCom'
 
 
 
@@ -19,6 +20,7 @@ function App() {
    <Route path='/button'  element={<Button/>}/>
    <Route path='/dropdown'  element={<DropDown/>}/>
    <Route path='/typography'  element={<TypoGraphy/>}/>
+   <Route path='/basicelement'  element={<BasicElement/>}/>
 
    </Routes>
     </>

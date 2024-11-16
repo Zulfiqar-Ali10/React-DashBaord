@@ -1,4 +1,5 @@
 import React from 'react'
+import { Link } from 'react-router-dom'
 
 export default function Navbar() {
   return (
@@ -17,9 +18,9 @@ export default function Navbar() {
         </button>
       </div>
       <div>
-        <a className="navbar-brand brand-logo" href="index.html">
+        <Link className="navbar-brand brand-logo" to="/">
           <img src="./src/assets/images/logo.svg" alt="logo" />
-        </a>
+        </Link>
         <a className="navbar-brand brand-logo-mini" href="index.html">
           <img src="./src/assets/images/logo-mini.svg" alt="logo" />
         </a>
