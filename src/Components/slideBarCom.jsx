@@ -132,9 +132,9 @@ export default function SlideBar() {
           <ul className="nav flex-column sub-menu">
             <li className="nav-item">
               {" "}
-              <a className="nav-link" href="pages/icons/font-awesome.html">
+              <Link className="nav-link" to="/icon">
                 Font Awesome
-              </a>
+              </Link>
             </li>
           </ul>
         </div>
@@ -155,38 +155,38 @@ export default function SlideBar() {
           <ul className="nav flex-column sub-menu">
             <li className="nav-item">
               {" "}
-              <a className="nav-link" href="pages/samples/blank-page.html">
+              <Link className="nav-link" to="/blank">
                 {" "}
                 Blank Page{" "}
-              </a>
+              </Link>
             </li>
             <li className="nav-item">
               {" "}
-              <a className="nav-link" href="pages/samples/error-404.html">
+              <Link className="nav-link" to="/404">
                 {" "}
                 404{" "}
-              </a>
+              </Link>
             </li>
             <li className="nav-item">
               {" "}
-              <a className="nav-link" href="pages/samples/error-500.html">
+              <Link className="nav-link" to="/505">
                 {" "}
                 500{" "}
-              </a>
+              </Link>
             </li>
             <li className="nav-item">
               {" "}
-              <a className="nav-link" href="pages/samples/login.html">
+              <Link className="nav-link" to="/login">
                 {" "}
                 Login{" "}
-              </a>
+              </Link>
             </li>
             <li className="nav-item">
               {" "}
-              <a className="nav-link" href="pages/samples/register.html">
+              <Link className="nav-link" to="/register">
                 {" "}
                 Register{" "}
-              </a>
+              </Link>
             </li>
           </ul>
         </div>
