@@ -192,10 +192,10 @@ export default function SlideBar() {
         </div>
       </li>
       <li className="nav-item">
-        <a className="nav-link" href="docs/documentation.html">
+        <Link className="nav-link" to="/document">
           <i className="menu-icon mdi mdi-file-document" />
           <span className="menu-title">Documentation</span>
-        </a>
+        </Link>
       </li>
     </ul>
   </nav>

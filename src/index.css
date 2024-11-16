@@ -5,7 +5,23 @@ body {
     font-size: .875rem;
     font-family: 'Roboto', sans-serif;
   }
-  
+  .sidebar .nav .nav-item .nav-link {
+    display: -webkit-flex;
+    display: flex;
+    -webkit-align-items: center;
+    align-items: center;
+    white-space: nowrap;
+    padding: 10px 35px 10px 35px;
+    color: #484848;
+    -webkit-transition-duration: 0.45s;
+    -moz-transition-duration: 0.45s;
+    -o-transition-duration: 0.45s;
+    transition-duration: 0.45s;
+    transition-property: color;
+    -webkit-transition-property: color;
+    font-weight: 400;
+    border-radius: 0px 20px 20px 0px;
+}
   h1,
   h2,
   h3,

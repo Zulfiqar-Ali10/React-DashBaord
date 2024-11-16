@@ -14,6 +14,7 @@ import Error from './Components/errorPageCom'
 import ErrorFive from './Components/errorpage2Com'
 import Login from './Components/loginCom'
 import Register from './Components/register'
+import Document from './Components/documentCom'
 
 
 
@@ -37,6 +38,7 @@ function App() {
    <Route path='/505'  element={<ErrorFive/>}/>
    <Route path='/login'  element={<Login/>}/>
    <Route path='/register'  element={<Register/>}/>
+   <Route path='/document'  element={<Document/>}/>
 
    </Routes>
     </>
