@@ -86,9 +86,9 @@ export default function SlideBar() {
           <ul className="nav flex-column sub-menu">
             <li className="nav-item">
               {" "}
-              <a className="nav-link" href="pages/charts/chartjs.html">
+              <Link className="nav-link" to="/chart">
                 ChartJs
-              </a>
+              </Link>
             </li>
           </ul>
         </div>
@@ -109,9 +109,9 @@ export default function SlideBar() {
           <ul className="nav flex-column sub-menu">
             <li className="nav-item">
               {" "}
-              <a className="nav-link" href="pages/tables/basic-table.html">
+              <Link className="nav-link" to="/tableelement">
                 Basic table
-              </a>
+              </Link>
             </li>
           </ul>
         </div>

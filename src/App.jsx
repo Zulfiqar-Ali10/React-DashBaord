@@ -6,6 +6,8 @@ import Button from './Components/buttonsCom'
 import DropDown from './Components/dropDownCom'
 import TypoGraphy from './Components/typoGraphyCom'
 import BasicElement from './Components/basicElementCom'
+import Chart from './Components/chartCom'
+import TableElement from './Components/tableElement'
 
 
 
@@ -21,6 +23,8 @@ function App() {
    <Route path='/dropdown'  element={<DropDown/>}/>
    <Route path='/typography'  element={<TypoGraphy/>}/>
    <Route path='/basicelement'  element={<BasicElement/>}/>
+   <Route path='/chart'  element={<Chart/>}/>
+   <Route path='/tableelement'  element={<TableElement/>}/>
 
    </Routes>
     </>
