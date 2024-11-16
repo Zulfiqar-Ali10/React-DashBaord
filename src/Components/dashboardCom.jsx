@@ -1,4 +1,5 @@
 import React from 'react'
+import SlideBar from './slideBarCom'
 
 
 export default function Dashboard() {
@@ -6,7 +7,7 @@ export default function Dashboard() {
    <>
    <div className="container-fluid page-body-wrapper">
   {/* partial:partials/_sidebar.html */}
-  
+  <SlideBar/>
   {/* partial */}
   <div className="main-panel">
     <div className="content-wrapper">

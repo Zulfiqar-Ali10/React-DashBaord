@@ -7,10 +7,8 @@ export default function Home() {
   return (
   <>
   <Navbar/>
- <div className="App d-flex">
- <SlideBar/>
  <Dashboard/>
- </div>
+
   </>
   )
 }

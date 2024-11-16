@@ -4,8 +4,8 @@ import { Link } from 'react-router-dom'
 export default function SlideBar() {
   return (
    <>
-   <nav className="sidebar sidebar-offcanvas mt-5" id="sidebar">
-    <ul className="nav mt-5">
+   <nav className="sidebar sidebar-offcanvas" id="sidebar">
+    <ul className="nav">
       <li className="nav-item">
         <Link className="nav-link" to="/">
           <i className="mdi mdi-grid-large menu-icon" />
