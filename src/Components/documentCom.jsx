@@ -9,7 +9,7 @@ export default function Document() {
     <div className="col-md-3 col-xl-2 left-sidebar">
       <div className="logo-wrapper">
         <Link to="/">
-          <img src="./src/assets/images/logo.svg" alt="logo" />
+          <img src="/images/logo.svg" alt="logo" />
         </Link>
       </div>
       <h5 className="left-menu-title">Documentation</h5>

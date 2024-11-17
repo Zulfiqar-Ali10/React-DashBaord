@@ -19,10 +19,10 @@ export default function Navbar() {
       </div>
       <div>
         <Link className="navbar-brand brand-logo" to="/">
-          <img src="./src/assets/images/logo.svg" alt="logo" />
+          <img src="/images/logo.svg" alt="logo" />
         </Link>
         <a className="navbar-brand brand-logo-mini" href="index.html">
-          <img src="./src/assets/images/logo-mini.svg" alt="logo" />
+          <img src="/images/logo-mini.svg" alt="logo" />
         </a>
       </div>
     </div>
@@ -194,7 +194,7 @@ export default function Navbar() {
             <a className="dropdown-item preview-item">
               <div className="preview-thumbnail">
                 <img
-                  src="./src/assets/images/faces/face10.jpg"
+                  src="/images/faces/face10.jpg"
                   alt="image"
                   className="img-sm profile-pic"
                 />
@@ -212,7 +212,7 @@ export default function Navbar() {
             <a className="dropdown-item preview-item">
               <div className="preview-thumbnail">
                 <img
-                  src="./src/assets/images/faces/face12.jpg"
+                  src="/images/faces/face12.jpg"
                   alt="image"
                   className="img-sm profile-pic"
                 />
@@ -230,7 +230,7 @@ export default function Navbar() {
             <a className="dropdown-item preview-item">
               <div className="preview-thumbnail">
                 <img
-                  src="./src/assets/images/faces/face1.jpg"
+                  src="/images/faces/face1.jpg"
                   alt="image"
                   className="img-sm profile-pic"
                 />
@@ -257,7 +257,7 @@ export default function Navbar() {
           >
             <img
               className="img-xs rounded-circle"
-              src="./src/assets/images/faces/face8.jpg"
+              src="/images/faces/face8.jpg"
               alt="Profile image"
             />{" "}
           </a>
@@ -268,7 +268,7 @@ export default function Navbar() {
             <div className="dropdown-header text-center">
               <img
                 className="img-md rounded-circle"
-                src="./src/assets/images/faces/face8.jpg"
+                src="/images/faces/face8.jpg"
                 alt="Profile image"
               />
               <p className="mb-1 mt-3 fw-semibold">Allen Moreno</p>

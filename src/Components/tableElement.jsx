@@ -190,7 +190,7 @@ export default function TableElement() {
                     <tr>
                       <td className="py-1">
                         <img
-                          src="../../assets/images/faces/face1.jpg"
+                          src="/images/faces/face1.jpg"
                           alt="image"
                         />
                       </td>
@@ -213,7 +213,7 @@ export default function TableElement() {
                     <tr>
                       <td className="py-1">
                         <img
-                          src="../../assets/images/faces/face2.jpg"
+                          src="/images/faces/face2.jpg"
                           alt="image"
                         />
                       </td>
@@ -236,7 +236,7 @@ export default function TableElement() {
                     <tr>
                       <td className="py-1">
                         <img
-                          src="../../assets/images/faces/face3.jpg"
+                          src="/images/faces/face3.jpg"
                           alt="image"
                         />
                       </td>
@@ -259,7 +259,7 @@ export default function TableElement() {
                     <tr>
                       <td className="py-1">
                         <img
-                          src="../../assets/images/faces/face4.jpg"
+                          src="/images/faces/face4.jpg"
                           alt="image"
                         />
                       </td>
@@ -282,7 +282,7 @@ export default function TableElement() {
                     <tr>
                       <td className="py-1">
                         <img
-                          src="../../assets/images/faces/face5.jpg"
+                          src="/images/faces/face5.jpg"
                           alt="image"
                         />
                       </td>
@@ -305,7 +305,7 @@ export default function TableElement() {
                     <tr>
                       <td className="py-1">
                         <img
-                          src="../../assets/images/faces/face6.jpg"
+                          src="/images/faces/face6.jpg"
                           alt="image"
                         />
                       </td>
@@ -328,7 +328,7 @@ export default function TableElement() {
                     <tr>
                       <td className="py-1">
                         <img
-                          src="../../assets/images/faces/face7.jpg"
+                          src="/images/faces/face7.jpg"
                           alt="image"
                         />
                       </td>

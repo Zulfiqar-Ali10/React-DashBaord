@@ -320,7 +320,7 @@ export default function Dashboard() {
                                     <td>
                                       <div className="d-flex ">
                                         <img
-                                          src="./src/assets/images/faces/face1.jpg"
+                                          src="/images/faces/face1.jpg"
                                           alt=""
                                         />
                                         <div>
@@ -373,7 +373,7 @@ export default function Dashboard() {
                                     <td>
                                       <div className="d-flex">
                                         <img
-                                          src="./src/assets/images/faces/face2.jpg"
+                                          src="/images/faces/face2.jpg"
                                           alt=""
                                         />
                                         <div>
@@ -426,7 +426,7 @@ export default function Dashboard() {
                                     <td>
                                       <div className="d-flex">
                                         <img
-                                          src="./src/assets/images/faces/face3.jpg"
+                                          src="/images/faces/face3.jpg"
                                           alt=""
                                         />
                                         <div>
@@ -479,7 +479,7 @@ export default function Dashboard() {
                                     <td>
                                       <div className="d-flex">
                                         <img
-                                          src="./src/assets/images/faces/face4.jpg"
+                                          src="/images/faces/face4.jpg"
                                           alt=""
                                         />
                                         <div>
@@ -532,7 +532,7 @@ export default function Dashboard() {
                                     <td>
                                       <div className="d-flex">
                                         <img
-                                          src="./src/assets/images/faces/face5.jpg"
+                                          src="/images/faces/face5.jpg"
                                           alt=""
                                         />
                                         <div>
@@ -966,7 +966,7 @@ export default function Dashboard() {
                                     <div className="d-flex">
                                       <img
                                         className="img-sm rounded-10"
-                                        src="./src/assets/images/faces/face1.jpg"
+                                        src="/images/faces/face1.jpg"
                                         alt="profile"
                                       />
                                       <div className="wrapper ms-3">
@@ -987,7 +987,7 @@ export default function Dashboard() {
                                     <div className="d-flex">
                                       <img
                                         className="img-sm rounded-10"
-                                        src="./src/assets/images/faces/face2.jpg"
+                                        src="/images/faces/face2.jpg"
                                         alt="profile"
                                       />
                                       <div className="wrapper ms-3">
@@ -1008,7 +1008,7 @@ export default function Dashboard() {
                                     <div className="d-flex">
                                       <img
                                         className="img-sm rounded-10"
-                                        src="./src/assets/images/faces/face3.jpg"
+                                        src="/images/faces/face3.jpg"
                                         alt="profile"
                                       />
                                       <div className="wrapper ms-3">
@@ -1029,7 +1029,7 @@ export default function Dashboard() {
                                     <div className="d-flex">
                                       <img
                                         className="img-sm rounded-10"
-                                        src="./src/assets/images/faces/face4.jpg"
+                                        src="/images/faces/face4.jpg"
                                         alt="profile"
                                       />
                                       <div className="wrapper ms-3">
@@ -1050,7 +1050,7 @@ export default function Dashboard() {
                                     <div className="d-flex">
                                       <img
                                         className="img-sm rounded-10"
-                                        src="./src/assets/images/faces/face5.jpg"
+                                        src="/images/faces/face5.jpg"
                                         alt="profile"
                                       />
                                       <div className="wrapper ms-3">
