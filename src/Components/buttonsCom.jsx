@@ -1,6 +1,7 @@
 import React from 'react'
 import SlideBar from './slideBarCom'
-import Navbar from './NavbarCom'
+import Navbar from './Navbar'
+
 
 
 export default function Button() {

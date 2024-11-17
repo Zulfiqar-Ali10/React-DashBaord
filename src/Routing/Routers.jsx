@@ -1,6 +1,5 @@
 import React from 'react'
 import { Route, Routes } from 'react-router-dom'
-import Home from '../Components/home'
 import Button from '../Components/buttonsCom'
 import DropDown from '../Components/dropDownCom'
 import TypoGraphy from '../Components/typoGraphyCom'
@@ -14,6 +13,7 @@ import ErrorFive from '../Components/errorpage2Com'
 import Login from '../Components/loginCom'
 import Register from '../Components/register'
 import Document from '../Components/documentCom'
+import Home from '../Components/home'
 
 export default function Routers() {
   return (

@@ -1,6 +1,6 @@
 import React from 'react'
-import Navbar from './NavbarCom'
 import SlideBar from './slideBarCom'
+import Navbar from './Navbar'
 
 export default function TableElement() {
   return (
